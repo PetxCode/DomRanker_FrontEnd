@@ -3,7 +3,7 @@ import styled from "styled-components";
 import EmptyData from "../../../utils/ReusedComp/EmptyData";
 import Mysimple from "./Mysimple";
 import pix from "./undraw_business_decisions_re_84ag (1).svg";
-import pix1 from "./network.svg";
+import pix1 from "../images/network.png";
 import TableData from "./TableData";
 import WorkTable from "./WorkTable";
 
